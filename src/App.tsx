@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Box display="flex" justifyContent="center" alignItems="center">
-        <Text color="blue.500" fontSize="2xl" fontWeight="bold">
+        <Text color="primary.500" fontSize="2xl" fontWeight="bold">
           Welcome to {appName}
         </Text>
       </Box>
